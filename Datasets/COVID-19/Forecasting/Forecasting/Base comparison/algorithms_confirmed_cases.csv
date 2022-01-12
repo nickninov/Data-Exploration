@@ -1,0 +1,7 @@
+Name,MSE
+Linear Regression,0.9004041455743096
+XGBoost,0.7148657719732342
+Random Forest,0.8767567281934897
+Multi-layer Perceptron,0.7661892572018738
+K-Nearest Neighbours,0.8215535064353917
+Support Vector Machine,0.73021393004316
